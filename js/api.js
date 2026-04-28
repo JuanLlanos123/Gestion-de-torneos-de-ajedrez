@@ -1,5 +1,5 @@
 window.API_BASE = 'https://backend-lmeb-production.up.railway.app/api';
-const API_BASE = window.API_BASE;
+const API_BASE = "https://backend-lmeb-production.up.railway.app/api";
 
 function getAuthToken() {
     return localStorage.getItem('jwt_token');
