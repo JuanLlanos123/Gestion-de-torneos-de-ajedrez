@@ -1,4 +1,4 @@
-window.API_BASE = 'http://localhost:8080/api';
+window.API_BASE = 'https://backend-lmeb-production.up.railway.app/api';
 const API_BASE = window.API_BASE;
 
 function getAuthToken() {
